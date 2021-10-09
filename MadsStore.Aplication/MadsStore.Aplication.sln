@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadsStore.Aplication", "MadsStore.Aplication\MadsStore.Aplication.csproj", "{1666BB24-89EE-47CE-9880-1759D106F177}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadsStore.Domain", "..\MadsStore.Domain\MadsStore.Domain\MadsStore.Domain.csproj", "{21A2FA8C-5F01-42E3-9C5A-F78C4297C95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1666BB24-89EE-47CE-9880-1759D106F177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1666BB24-89EE-47CE-9880-1759D106F177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1666BB24-89EE-47CE-9880-1759D106F177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1666BB24-89EE-47CE-9880-1759D106F177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A2FA8C-5F01-42E3-9C5A-F78C4297C95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A2FA8C-5F01-42E3-9C5A-F78C4297C95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A2FA8C-5F01-42E3-9C5A-F78C4297C95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A2FA8C-5F01-42E3-9C5A-F78C4297C95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD68A992-9245-4501-8B8F-680E3B6C5146}
+	EndGlobalSection
+EndGlobal
